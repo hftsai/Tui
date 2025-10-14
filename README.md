@@ -813,5 +813,5 @@ SOFTWARE.
 ## Authors
 
 - Paul Hsieh-Fu Tsai
-- Yi-Ming Chang
+- I-Ming Chang
 
