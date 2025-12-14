@@ -1,6 +1,7 @@
 # Tui Tracker: Cell Tracking and Lineage Analysis Tool
-
+<img width="2558" height="1541" alt="Screenshot" src="https://github.com/user-attachments/assets/64b4e13f-f65b-4621-bdbd-f9ed874e6959" />
 ## Overview
+
 
 Tui Tracker is a Python-based tool designed for tracking cells in time-lapse microscopy image sequences, analyzing their lineage (including mitosis events), and visualizing the results. It provides a graphical user interface (GUI) built with PyQt5 and pyqtgraph for interactive data exploration, parameter tuning, and manual correction of tracking data.
 
